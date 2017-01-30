@@ -1,0 +1,6 @@
+.container-fluid {
+  padding-left: 0 !important;
+  padding-right: 0 !important; }
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover {
+  background-color: green !important; }
